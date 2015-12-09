@@ -32,3 +32,10 @@
 *.exe
 *.out
 *.app
+
+#Extra folders
+build/
+proc/
+images/
+x64/
+data/
