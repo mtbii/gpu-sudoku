@@ -2,11 +2,11 @@
 Solving a Sudoku puzzle using computer vision and CUDA.  
 Final project for University of South Carolina Parallel Computing class, CSCE 569.
 
-Authors:
+#### Authors
 - Michael Brunson
 - Stephen Still
 
-#### Technnologies
+#### Technologies
 - OpenCV 2.4.12
 - CUDA (Toolkit 7.5, Compute 5.0)
 
