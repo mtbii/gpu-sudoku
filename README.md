@@ -18,9 +18,9 @@ This code was run on a Dell Alienware 15 with a Intel Core i7-4710HQ CPU and Nvi
 
 #### Results
 Extraction:
-CPU: ~1200 ms
-GPU: ~2100 ms
+CPU: ~1200 ms  
+GPU: ~2100 ms  
 
-Solvin:
-CPU: < 2 ms
-GPU: ~200 ms
+Solving:
+CPU: < 2 ms  
+GPU: ~200 ms  
