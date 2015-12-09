@@ -29,3 +29,5 @@ GPU: ~200 ms
 Based on the algorithms we used, the GPU did not speed up the program. Using OpenCV's Mat data structure resulted in too much overhead for the extraction algorithm and some parts of the extraction process are not easily parallelizeable. This resulted in spending too much time copying back and forth from host to GPU.
 
 The solving algorthim suffers from similar issues. The breadth first search algorithm has not been perfected on the GPU yet, so the implementation here is inefficient and results in way too much overhead.
+
+Better algorithms are needed!
